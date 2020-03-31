@@ -503,10 +503,10 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@mdi/font@^3.6.95":
-  version "3.6.95"
-  resolved "https://registry.yarnpkg.com/@mdi/font/-/font-3.6.95.tgz#0bbde766ca2d94cfa0e469f25523b23d3112bdd3"
-  integrity sha512-wUbkF/RRCIh51TPzAL9qUeRSUFla9I3x1nGq62HkfWzIebRHbDY5HPaYCQuZO7398dWaLHTu4BwnBA58YbhfEA==
+"@mdi/font@^4.9.95":
+  version "4.9.95"
+  resolved "https://registry.yarnpkg.com/@mdi/font/-/font-4.9.95.tgz#00ed2ffe289c9230f146e74559c07542d3f4475a"
+  integrity sha512-m2sbAs+SMwRnWpkMriBxEulwuhmqRyh6X+hdOZlqSxYZUM2C2TaDnQ4gcilzdoAgru2XYnWViZ/xPuSDGgRXVw==
 
 abbrev@1:
   version "1.1.1"
